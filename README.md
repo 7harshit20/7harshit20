@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshit
 - 👀 I’m interested in exploring latest tech 
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Backend development
 - 📫 How to reach me https://www.linkedin.com/in/harshit-goyal-a83645211
 <!--- 💞️ I’m looking to collaborate on ... --->
 
