@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshit
 - 👀 I’m interested in exploring latest tech 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently exploring Blockchain development
 - 📫 How to reach me https://www.linkedin.com/in/h7arshit-goyal
 <!--- 💞️ I’m looking to collaborate on ... --->
 
